@@ -42,7 +42,7 @@ Where:
 
 ## Dependencies
 
-[Python3, numpy, matplotlib]
+[numpy, matplotlib]
 
 ## License
 
