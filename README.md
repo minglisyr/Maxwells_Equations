@@ -46,4 +46,4 @@ Where:
 
 ## License
 
-[GPL 2.0]
+[GPL 3.0]

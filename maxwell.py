@@ -12,7 +12,7 @@ v = np.array([1, 0, 0])  # Velocity vector (m/s)
 x0, y0, z0 = 0, 0, 0  # Position of the charge
 
 # Vector density parameter (adjust this to change the number of vectors)
-density = 10  # Number of vectors in each dimension
+density = 7  # Number of vectors in each dimension
 
 # Create grid
 x = np.linspace(-5, 5, density)
